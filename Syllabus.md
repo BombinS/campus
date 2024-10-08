@@ -1,7 +1,7 @@
 # Учебный план
 ## Модуль 01
 ### Git (базовый)
-- [x] Научиться клонировать данный репозиторий (ssh)
+- [ ] Научиться клонировать данный репозиторий (ssh)
 - [ ] Branch, UI Github
 - [ ] Status, Add, Commit, Push
 - [ ] Pull Request. PR Review and merge.
