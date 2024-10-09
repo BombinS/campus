@@ -7,6 +7,7 @@
 - [ ] Pull Request. PR Review and merge.
 - [ ] Pull. Merge. Решение конфликтов
 
+
 ### SQL
 - [ ] 
 ### Курс Гарварда CS50
