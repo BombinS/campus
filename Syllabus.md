@@ -8,7 +8,7 @@
 - [ ] Pull. Merge. Решение конфликтов
 
 ### SQL
-- [ ] 
+- [ ] Зарегистрироваться на [Упражнения по SQL (sql-ex.ru)](https://www.sql-ex.ru/)
 ### Курс Гарварда CS50
 #### Лекция 1
 - [x] [1. CS50 на русском: Лекция #1 [Гарвард, Основы программирования, осень 2015 год] - YouTube](https://www.youtube.com/watch?v=SW_UCzFO7X0&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=6&t=2437s)
