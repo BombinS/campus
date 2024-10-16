@@ -1,16 +1,10 @@
 # Учебный план
 ## Модуль 01
-### Git (базовый)
-- [x] Научиться клонировать данный репозиторий (ssh)
-- [x] Branch, UI Github
-- [x] Status, Add, Commit, Push
-- [ ] Pull Request. PR Review and merge.
-- [ ] Pull. Merge. Решение конфликтов
-
-### SQL
-- [ ] 
-### Курс Гарварда CS50
-- [ ] [1. CS50 на русском: Лекция #1 [Гарвард, Основы программирования, осень 2015 год] - YouTube](https://www.youtube.com/watch?v=SW_UCzFO7X0&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=6&t=2437s)
-- [ ] [2. CS50 на русском: Лекция #2 [Гарвард, Основы программирования, осень 2015 год] (youtube.com)](https://www.youtube.com/watch?v=7fJ42lfCUXg&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=3)
-- [ ] [3. CS50 на русском: Лекция #3 [Гарвард, Основы программирования, осень 2015 год] (youtube.com)](https://www.youtube.com/watch?v=agdXnmEadCM&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=4)
-- [ ] [4. CS50 на русском: Лекция #4 [Гарвард, Основы программирования, осень 2015 год] (youtube.com)](https://www.youtube.com/watch?v=ej3EA451m2c&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=5)
+[[Syllabus. Модуль 1. Базовый Гит]]
+[[Syllabus. Модуль 1. Базовый SQL]]
+[[Syllabus. Модуль 1. Курс Гарварда CS50]]
+[[Syllabus. Модуль 1. Базовый С]]
+[[Syllabus. Модуль 1. Базовый Python]]
+[[Syllabus. Модуль 1. Базовый JS]]
+[[Syllabus. Модуль 1. Базовый СSharp]]
+[[Syllabus. Модуль 1. Базовые алгоритмы]]
