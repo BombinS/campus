@@ -1,3 +1,3 @@
 Select model, speed, hd
 from pc
-where price<500
+where price < 500
